@@ -1,0 +1,101 @@
+* {
+      font-family: 'Franklin Gothic Medium', sans-serif;
+      text-align: center;
+      word-spacing: 6px;
+      letter-spacing: 1px;
+      line-height: 1.6;
+      text-decoration: none;
+    }
+
+    body {
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #2c3e50;
+      color: #ecf0f1;
+      font-size: 36px;
+      font-weight: normal;
+      font-style: italic;
+      text-transform: uppercase;
+      border: 2px solid #34495e;
+      border-radius: 12px;
+      width: 100%;
+      height: 120px;
+      line-height: 120px;
+    }
+
+    main {
+      background-color: #ffffff;
+      color: #2c3e50;
+      font-size: 20px;
+      font-style: italic;
+      font-weight: normal;
+      text-transform: none;
+      border: 2px solid #bdc3c7;
+      border-radius: 10px;
+      width: 90%;
+      height: auto;
+      margin: 30px auto;
+    }
+
+    h1 {
+      color: #e67e22;
+      background-color: #ecf0f1;
+      font-size: 28px;
+      font-style: italic;
+      font-weight: normal;
+      text-transform: lowercase;
+      text-decoration: underline;
+      border: 2px solid #d35400;
+      border-radius: 10px;
+      width: 60%;
+      height: 70px;
+      line-height: 70px;
+      margin: 30px auto;
+    }
+
+    section {
+      background-color: #f9f9f9;
+      color: #2c3e50;
+      font-size: 18px;
+      font-weight: normal;
+      text-transform: none;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      width: 70%;
+      margin: 20px auto;
+    }
+
+    p {
+      font-size: 17px;
+      font-style: italic;
+      color: #34495e;
+      background-color: #ffffff;
+      border: 2px solid #5b0000;
+      border-radius: 8px;
+      width: 90%;
+      height: 80px;
+      line-height: 80px;
+      margin: 10px auto;
+      text-transform: lowercase;
+    }
+
+    div{
+      border: 2px solid blue;
+    }
+
+    footer {
+      background-color: #2c3e50;
+      color: #ecf0f1;
+      font-size: 16px;
+      font-style: italic;
+      font-weight: normal;
+      text-transform: lowercase;
+      border: 2px solid #34495e;
+      border-radius: 10px;
+      width: 100%;
+      height: 100px;
+      line-height: 100px;
+    }
